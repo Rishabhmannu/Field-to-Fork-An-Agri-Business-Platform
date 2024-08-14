@@ -25,7 +25,37 @@ Before running this project, ensure you have the following installed:
 
 Follow these instructions to get a copy of the project up and running on your local machine.
 
+
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Rishabhmannu/Project.git
+git clone https://github.com/Rishabhmannu/Field-to-Fork-An-Agri-Business-Platform.git
+```
+
+## 2. Set Up the Database
+
+- Start your XAMPP server.
+- Open phpMyAdmin in your browser.
+- Create a new database (e.g., `agribusiness`).
+- Import the `agribusiness.sql` file located in the project directory into your database.
+
+## 3. Run the Project
+
+- Place the project files in the `htdocs` directory of your XAMPP installation.
+- Open your browser and navigate to [http://localhost/ProjectDirectoryName](http://localhost/ProjectDirectoryName).
+
+## 4. Access the Platform
+
+- Register as a new user or log in with existing credentials.
+- Explore product listings, or if you’re a farmer, list your products for sale.
+
+
+## Acknowledgements
+
+- Thanks to the open-source community for the tools and resources that made this project possible.
+- Special mention to my friends Aditya Singh Mertia(IIT2022125) and Karan Singh(IIT2022132) of IITA for making this possible
+
+## Contact
+
+For any inquiries or issues, please contact Rishabh Mannu.
+
