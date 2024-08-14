@@ -53,7 +53,7 @@ git clone https://github.com/Rishabhmannu/Field-to-Fork-An-Agri-Business-Platfor
 ## Acknowledgements
 
 - Thanks to the open-source community for the tools and resources that made this project possible.
-- Special mention to my friends Aditya Singh Mertia(IIT2022125) and Karan Singh(IIT2022132) of IITA for making this possible
+- Special mention to my friends Aditya Singh Mertia(IIT2022125) and Karan Singh(IIT2022132) of IIITA for making this possible
 
 ## Contact
 
