@@ -1,20 +1,31 @@
-A Full Stack Project made using HTML, CSS and PHP and MYSQL Database
+# Field-to-Fork: An Agri-Business Platform
 
+A full-stack web application designed to facilitate direct farmer-to-consumer transactions, eliminating intermediaries and empowering both farmers and consumers. This platform allows farmers to list their products directly, and consumers can purchase fresh produce without the middleman.
 
-An Agri-business platform facilitating direct farmer-to-consumer transactions, eliminating intermediaries.
-• Implemented features for product listings, user authentication, and MySQL database integration
+## Features
 
+- **Product Listings**: Farmers can easily list their products with details like price, quantity, and description.
+- **User Authentication**: Secure login and registration system for both farmers and consumers.
+- **Database Integration**: Utilizes MySQL for storing user data, product listings, and transaction records.
 
-Instructions To run this project
-<br>
+## Tech Stack
 
-Install Xampp for running php
-<br>
+- **Frontend**: HTML, CSS
+- **Backend**: PHP
+- **Database**: MySQL
 
-Start your Xampp server
+## Prerequisites
 
-<br>
-Go to phpmyadmin and upload agribusinessn.sql for database
+Before running this project, ensure you have the following installed:
 
-<br>
-Start the project via localhost
+- [XAMPP](https://www.apachefriends.org/index.html) (or any PHP server)
+- A web browser
+
+## Getting Started
+
+Follow these instructions to get a copy of the project up and running on your local machine.
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Rishabhmannu/Project.git
